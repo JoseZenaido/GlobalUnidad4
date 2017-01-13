@@ -1,0 +1,9 @@
+cliente        
+  id
+  rfc
+  nombre
+  calle
+  colonia
+  localidad
+  telefono
+  correo
